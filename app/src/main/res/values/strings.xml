@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desafio Easy Tecno</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btn_delete">Apagar</string>
+</resources>
